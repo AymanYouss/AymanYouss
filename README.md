@@ -3,17 +3,12 @@
 
 - 🔭 I’m currently studying in [Polytechnic University Mohammed VI](https://um6p.ma/)
 
-- 🌱 I’m currently learning **advanced reinforcement learning techniques**
-
-- 👯 I’m looking to collaborate on **developing AI models for new softwares**
+- 👯 I’m looking for new **Software development and AI modeling internships**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AymanYouss](https://github.com/AymanYouss)
 
 - 📫 How to reach me **ayman.youss@um6p.ma**
 
-- 📄 Know about my experiences [https://github.com/AymanYouss](https://github.com/AymanYouss)
-
-- ⚡ Fun fact **I make fun jokes to hype my teammates !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
