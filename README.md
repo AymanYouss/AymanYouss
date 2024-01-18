@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayman Youss</h1>
-<h3 align="center">An artificial intelligence enthusiast</h3>
+<h3 align="center">A Passionate Computer Science Student</h3>
 
 - 🔭 I’m currently studying in [Polytechnic University Mohammed VI](https://um6p.ma/)
 
-- 👯 I’m looking for new **Software development and AI modeling internships**
+- 👯 I’m looking for new **Software and AI engineering internships**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AymanYouss](https://github.com/AymanYouss)
 
