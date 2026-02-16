@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Computer Science Student</h3>
 
 - 🔭 I’m currently working at **Boston Consulting Group**
-- 
+  
 - 👯 I’m looking for new **Opportunities to grow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AymanYouss](https://github.com/AymanYouss)
