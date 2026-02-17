@@ -1,21 +1,132 @@
-<h1 align="center">Hi 👋, I'm Ayman Youss</h1>
-<h3 align="center">A Passionate Computer Science Student</h3>
+<div align="center">
 
-- 🔭 I’m currently working at **Boston Consulting Group**
-  
-- 👯 I’m looking for new **Opportunities to grow**
+# Ayman Youss
 
-- 👨‍💻 All of my projects are available at [https://github.com/AymanYouss](https://github.com/AymanYouss)
+**Software Engineer · AI Practitioner · Competitive Programmer**
 
-- 📫 How to reach me **ayman.youss@um6p.ma**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymany)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AymanYouss)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayman.youss@um6p.ma)
 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aymany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymany" height="30" width="40" /></a>
-<a href="https://fb.com/ayman.youss.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayman youss" height="30" width="40" /></a>
-<a href="https://instagram.com/aymanyoussxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayman.youss" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> </a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### About Me
+
+I'm a final-year Computer Science & Communication Systems student at **Mohammed VI Polytechnic University (UM6P)**, Morocco. I build things that sit at the intersection of **software engineering**, **AI/ML**, and **high-performance systems**. When I'm not coding, I'm probably competing — I've represented Morocco at international programming contests and won gold at GITEX Africa for AI.
+
+I care about clean architecture, solving hard problems, and shipping software that actually works at scale.
+
+---
+
+### 🏢 Experience
+
+| | Role | Company | What I Did |
+|---|---|---|---|
+| 🟢 | **Software Engineering Intern** | **BCG X** — Casablanca | Currently building software solutions at BCG's tech & AI arm. |
+| 🔬 | **Software Engineering Intern** | **Jülich Research Center** — Germany | Built [JuPedWeb](https://github.com/AymanYouss), a full-stack web platform for pedestrian crowd simulation (C++, FastAPI, React, MongoDB). Architected microservices handling 10,000+ agent simulations in real-time. |
+| 🤖 | **AI Engineering Intern** | **Leyton** — Morocco | Developed an AI-driven document validation system — cut validation time by 60%. Fine-tuned LayoutLM to 90% accuracy on complex certificate layouts. |
+| 💻 | **Software Engineering Intern** | **OCP Group** — Morocco | Built a business intelligence web dashboard for OCP's Business Unit (PHP, MySQL, Bootstrap). |
+
+---
+
+### 🏆 Awards & Competitions
+
+| Award | Details |
+|---|---|
+| 🥇 **AI for Africa Gold Medal** — GITEX 2024 | Built *AquaScore*, an AI solution ranking villages by water criticality. Advanced to UNESCO/IRCAI Global Top 100. |
+| 🥈 **Gulf International Programming Contest** — 2023 | Represented Morocco in Muscat, Oman. 2nd place out of 42 teams. |
+| 🥈 **Moroccan National Programming Contest** — 2024 | 2nd place out of 63 teams. |
+| 🏅 **ACPC Finalist** | Selected to represent Morocco at the Africa & Arab Collegiate Programming Championship. |
+
+---
+
+### 🔨 Selected Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🚶 JuPedWeb — Crowd Simulation Platform**
+<br/>Full-stack platform for pedestrian dynamics simulation. Microservices architecture with real-time agent visualization, DXF parsing, and community scenario sharing.
+<br/>`C++` `FastAPI` `React` `MongoDB` `Docker`
+
+</td>
+<td width="50%">
+
+**⚙️ COOL Compiler**
+<br/>Complete compiler for Stanford's Classroom OO Language — lexer, parser, semantic analyzer, and LLVM IR code generation.
+<br/>`Go` `LLVM`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🌦️ Weather Big Data Pipeline**
+<br/>Real-time data ingestion & visualization pipeline with time-series prediction using SparkML.
+<br/>`Airflow` `Kafka` `HBase` `Spark SQL/ML`
+
+</td>
+<td width="50%">
+
+**🤖 AutoML Platform**
+<br/>No-code ML platform with drag-and-drop visual pipeline builder, real-time logging, and FastAPI microservices.
+<br/>`FastAPI` `React` `MongoDB` `Node.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🗄️ Persistent Key-Value Store**
+<br/>LSM-tree based key-value database with write-ahead logging and crash recovery.
+<br/>`Go`
+
+</td>
+<td width="50%">
+
+**📊 Trend Analysis App** *(Freelance)*
+<br/>Real-time YouTube video & keyword trend analysis for a US social media firm.
+<br/>`React` `Express` `Node.js` `MongoDB`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**&emsp;&emsp;&emsp;&emsp;`C++` `Python` `Go` `Java` `JavaScript` `C` `PHP`
+
+**Frontend**&emsp;&emsp;&emsp;&emsp;&emsp;`React` `Tailwind CSS` `Bootstrap` `HTML/CSS`
+
+**Backend**&emsp;&emsp;&emsp;&emsp;&emsp;`FastAPI` `Node.js` `Express` `Laravel`
+
+**AI/ML**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;`PyTorch` `TensorFlow` `Scikit-learn` `SparkML` `OpenCV`
+
+**Data & Infra**&emsp;&emsp;&emsp;`Docker` `Kafka` `Airflow` `HBase` `Spark` `MongoDB` `MySQL` `PostgreSQL`
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AymanYouss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanYouss&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+📍 Benguerir, Morocco &emsp;·&emsp; 🎓 UM6P '26 &emsp;·&emsp; 📧 ayman.youss@um6p.ma
+
+*Open to full-time opportunities starting Summer 2026.*
+
+</div>
