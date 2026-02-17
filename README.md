@@ -115,11 +115,20 @@ I care about clean architecture, solving hard problems, and shipping software th
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AymanYouss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=AymanYouss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=AymanYouss&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AymanYouss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</picture>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanYouss&layout=compact&theme=tokyonight&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AymanYouss&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AymanYouss&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AymanYouss&theme=tokyonight&hide_border=true" />
+</picture>
 
 </div>
+
 
 ---
 
@@ -127,6 +136,5 @@ I care about clean architecture, solving hard problems, and shipping software th
 
 📍 Benguerir, Morocco &emsp;·&emsp; 🎓 UM6P '26 &emsp;·&emsp; 📧 ayman.youss@um6p.ma
 
-*Open to full-time opportunities starting Summer 2026.*
 
 </div>
