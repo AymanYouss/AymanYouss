@@ -14,7 +14,7 @@
 
 ### About Me
 
-I'm a final-year Computer Science & Communication Systems student at **Mohammed VI Polytechnic University (UM6P)**, Morocco. I build things that sit at the intersection of **software engineering**, **AI/ML**, and **high-performance systems**. When I'm not coding, I'm probably competing — I've represented Morocco at international programming contests and won gold at GITEX Africa for AI.
+I studied Computer Science & Communication Systems student at **Mohammed VI Polytechnic University (UM6P)**, Morocco. I build things that sit at the intersection of **software engineering**, **AI/ML**, and **high-performance systems**. When I'm not coding, I'm probably competing — I've represented Morocco at international programming contests and won gold at GITEX Africa for AI.
 
 I care about clean architecture, solving hard problems, and shipping software that actually works at scale.
 
